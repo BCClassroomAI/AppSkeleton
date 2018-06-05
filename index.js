@@ -1,4 +1,4 @@
-// This is a blank skill for Alexa
+// This is a blank skill for Alexa.
 
 'use strict';
 const Alexa = require("alexa-sdk");
